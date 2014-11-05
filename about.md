@@ -17,6 +17,6 @@ Please feel free to get in touch:
 * [Linked In](https://uk.linkedin.com/pub/fionn-concannon)
 * [Twitter](https://twitter.com/FionnConcannon)
 
-\Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-\request a feature, report a bug, or contribute. It's free, and open source
-\([MIT](http://opensource.org/licenses/MIT)).
+:Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
+:request a feature, report a bug, or contribute. It's free, and open source
+:([MIT](http://opensource.org/licenses/MIT)).
