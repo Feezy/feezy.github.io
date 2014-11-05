@@ -1,19 +1,19 @@
 ---
 layout: page
-title: About Pixyll
+title: Welcome
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I'm here to talk about start-ups, technology and future trends. We live in one of the most exciting times in human history on the verge of a science and technology revolution that will change the face of our world for ever, and over and over again. 
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+I am very excited to have the opportuntiy to be a part of this movement hopefully for the next 20-30 years building products and services that add real utility and value improving people's lives in our own small way.
 
-Thanks to the following:
+/Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
+/request a feature, report a bug, or contribute. It's free, and open source
+/([MIT](http://opensource.org/licenses/MIT)).
+Please feel free to get in touch:
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+* [Angel List](https://angel.co/fionn-concannon)
+* [Email](fionn@oceanlabs.co)
+* [Linked In](https://uk.linkedin.com/pub/fionn-concannon)
+* [Twitter](https://twitter.com/FionnConcannon)
