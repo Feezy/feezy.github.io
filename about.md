@@ -13,7 +13,7 @@ I am very excited to have the opportuntiy to be a part of this movement hopefull
 Please feel free to get in touch:
 
 * [Angel List](https://angel.co/fionn-concannon)
-* [Email](fionn@oceanlabs.co)
+* [Email Me](mailto:fionn@oceanlabs.co)
 * [Linked In](https://uk.linkedin.com/pub/fionn-concannon)
 * [Twitter](https://twitter.com/FionnConcannon)
 
