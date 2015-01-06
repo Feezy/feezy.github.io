@@ -2,7 +2,7 @@
 title:       Fionn Concannon
 email:       fionn@oceanlabs.co
 author:      Fionn Concannon
-description: "Fionn's Concannon's Writings"
+description: "Fionn Concannon"
 baseurl:     ""
 url:         "http://www.fionnconcannon.com"
 
@@ -10,16 +10,16 @@ url:         "http://www.fionnconcannon.com"
 google_analytics:
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
 show_post_footers:  false
 
 # Social icons
-show_social_icons: false
+show_social_icons: true
 github_username:
-twitter_username:
+twitter_username:@fionnconcannon
 google_plus_id:
-linkedin_username:
+linkedin_username:fionn.concannon@gmail.com
 bitcoin_url:
 paypal_url:
 flattr_button:
